@@ -19,7 +19,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sanjaya2204&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun&hide=B,B%2B)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sanjaya2204&icon=5&color=12)](https://visitcount.itsvg.in)
